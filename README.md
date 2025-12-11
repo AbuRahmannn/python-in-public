@@ -1,5 +1,5 @@
 Welcome to Python in Public, a repository where I learn and document Python concepts day by day.
-This project is about learning openly, improving consistency, and sharing knowledge with others.
+This is about learning openly, improving consistency, and sharing knowledge with others.
 
 🚀 Goal of This Repository
 ---------------------------
