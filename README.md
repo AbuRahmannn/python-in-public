@@ -16,3 +16,18 @@ Day 01 — Input & Output, Variables, Operators
 * Creating and using variables
 * Arithmetic & logical operators
 * Basic quizzes and I/O practice
+
+🔧 Tech & Tools
+----------------
+Python 3.x
+VS Code
+Git & GitHub
+
+🤝 Contributions
+-----------------
+Suggestions & improvements are always welcome!
+Feel free to open an issue or submit a pull request.
+
+🌟 Support
+-----------
+If you like this journey, star ⭐ the repo to follow along!
